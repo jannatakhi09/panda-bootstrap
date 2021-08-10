@@ -1,0 +1,16 @@
+.gray img {
+    filter: grayscale(95%);
+  }
+  .puchka img{
+      width: 65%;
+
+  }
+  .panda-bg-info{
+      background-color: #FEEAE9;
+      
+  }
+  .puch img{
+      width: 15px;
+      color: blue;
+
+  }
